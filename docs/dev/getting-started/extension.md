@@ -99,7 +99,7 @@ Add PSR-4 autoload mapping? Maps namespace "Somevendor\ContaoExampleBundle" to t
     "name": "somevendor/contao-example-bundle",        
     "type": "contao-bundle",
     "require": {
-        "contao/core-bundle": "^4.13 || ^5.0"
+        "contao/core-bundle": "^5.3 || ^6.0"
     },
     "license": "LGPL-3.0-or-later",
     "autoload": {
@@ -135,7 +135,7 @@ confirmed this:
     "name": "somevendor/contao-example-bundle",
     "type": "contao-bundle",
     "require": {
-        "contao/core-bundle": "^4.13 || ^5.0"
+        "contao/core-bundle": "^5.3 || ^6.0"
     },
     "license": "LGPL-3.0-or-later",
     "autoload": {
